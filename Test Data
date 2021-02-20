@@ -1,0 +1,49 @@
+### Water = 3 Liters
+## Soil = 200 gram
+# Time = 15 min
+
+
+
+
+Alum = 0
+TSS = 3001 NTU
+TDS = 364 PPM
+
+Alum = 11.56 gram
+TSS = 1204.17 NTU
+TDS = 152 PPM
+
+TSS D = 155.4
+TDS D = 18.34
+
+
+
+Alum = 0
+TSS = 3001 NTU
+TDS = 361 PPM
+
+Alum = 8.79 gram
+TSS = 1530.09 NTU
+TDS = 193 PPM
+
+TSS D = 167.33
+TDS D = 19.11
+
+
+
+Alum = 0
+TSS = 3001 NTU
+TDS = 377 PPM
+
+Alum = 12.42 gram 
+TSS = 1190.65 NTU
+TDS = 167 PPM
+
+TSS D = 145.76
+TDS D = 16.90
+mn 
+
+
+
+final TSS = 156.163
+final tds = 18.027
